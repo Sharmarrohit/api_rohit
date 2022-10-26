@@ -1,0 +1,20 @@
+{
+	"firstname": "DIVYA",
+	"lastname": "sharma",
+	"id": "rdferg",
+	"desi": "indian",
+	"adress":
+	 [
+	 {
+		"Sector": "14",
+		"haryana": "faridabad"
+      },
+      
+	 {
+		"Sector": "14",
+		"haryana": "faridabad"
+      }
+      
+	]
+
+}

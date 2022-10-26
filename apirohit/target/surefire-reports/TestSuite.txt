@@ -1,0 +1,22 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 1.926 sec <<< FAILURE! - in TestSuite
+testcase1(Org.testing.testCase.tc3_getrequest)  Time elapsed: 0.04 sec  <<< FAILURE!
+java.lang.Error: Unresolved compilation problems: 
+	Response cannot be resolved to a type
+	The method given() is undefined for the type HTTPMethord
+	ContentType cannot be resolved to a variable
+
+	at Org.testing.testScript.HTTPMethord.PostMethod(HTTPMethord.java:20)
+	at Org.testing.testCase.tc3_getrequest.testcase1(tc3_getrequest.java:22)
+
+testcase1(Org.testing.testCase.TC1_PostReq)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.Error: Unresolved compilation problems: 
+	Response cannot be resolved to a type
+	The method given() is undefined for the type HTTPMethord
+	ContentType cannot be resolved to a variable
+
+	at Org.testing.testScript.HTTPMethord.PostMethod(HTTPMethord.java:20)
+	at Org.testing.testCase.TC1_PostReq.testcase1(TC1_PostReq.java:22)
+
